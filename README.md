@@ -1,3 +1,18 @@
+Humidity Logger with two DHT 11 sensors 
+==================================
+All this project aims to do is using the Adafruit Python DHT Sensor Library to use two sensors to create a log with humidiy measurements.
+
+To this end I created the google_spreadsheet_twosens.py and this repo exists primarily to store this for me.
+
+
+If you are thinking about a similar project you should start here:
+https://github.com/adafruit/Adafruit_Python_DHT.
+or here:
+https://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-logging/software-install-updated
+
+
+
+
 Adafruit Python DHT Sensor Library
 ==================================
 
